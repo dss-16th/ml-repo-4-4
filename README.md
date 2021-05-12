@@ -1,7 +1,7 @@
 # 청소년의 질병 예측
 machine learning project
 
-<img width="450" alt="스크린샷 2021-03-26 오후 2 58 02" src="https://user-images.githubusercontent.com/75352728/117994274-61514f00-b37b-11eb-9633-a3872c057ba4.png">
+<img width="500" alt="스크린샷 2021-03-26 오후 2 58 02" src="https://user-images.githubusercontent.com/75352728/117994274-61514f00-b37b-11eb-9633-a3872c057ba4.png">
 
 
 *그림 출처 : freepik
