@@ -67,8 +67,8 @@ machine learning project
 - object 데이터 타입을 category 타입으로 변환 
 - csv 파일을 parquet으로 변환
 
-` df.to_parquet('경로/파일이름.parquet')
-df = pd.read_parquet('./경로/파일이름.parquet', engine='pyarrow') `
+` df.to_parquet('경로/파일이름.parquet')`
+`df = pd.read_parquet('./경로/파일이름.parquet', engine='pyarrow') `
 	
 	
 #### 2. 데이터 mapping
