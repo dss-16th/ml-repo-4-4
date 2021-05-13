@@ -7,6 +7,17 @@ machine learning project
 *그림 출처 : freepik
 
 ***
+## 요약
+
+
+
+
+
+
+
+
+***
+
 ## 1. INTRO
 
 ### 1-1 개요
@@ -152,16 +163,14 @@ machine learning project
 
 <br/>
 
-## 2. Result
 
-
-## 3. PROCESS
+## 2. PROCESS
 
 데이터 확장자 변경 -> 데이터 전처리 -> EDA -> 모델 학습과 예측 평가 -> 모델 검증
 
 <br/>
 
-### 3-1 데이터 전처리
+### 2-1 데이터 전처리
 
 #### 1. 용량 줄이기
 
@@ -175,7 +184,7 @@ machine learning project
 
 - 코드로 이루어진 데이터 EDA를 위해 한글로 mapping 
 
-### 3-2 시각화
+### 2-2 시각화
 
 #### 1. 병원
 
@@ -415,8 +424,8 @@ machine learning project
 <img width="452" alt="스크린샷 2021-05-13 오후 12 48 51" src="https://user-images.githubusercontent.com/75352728/118074791-a7dd9280-b3e9-11eb-9c7c-d43f99dbf3e6.png">
 
 
-## 4. CONCLUSION
+## 3. CONCLUSION
 
-## 5. comment & limitations
+## 4. comment & limitations
 
 
