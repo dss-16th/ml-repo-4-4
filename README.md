@@ -240,6 +240,8 @@ machine learning project
 
 ## 의료급여에서 정신질환이 높은 확률이 나타나는 것을 알 수 있다. 정신질환(F코드)에 대해 알아보자!
 
+## 정신질환 (F코드)
+
 #### 7. 연령
 
 <img width="233" alt="스크린샷 2021-05-13 오전 11 34 56" src="https://user-images.githubusercontent.com/75352728/118069477-3e588680-b3df-11eb-9301-4192b406c666.png">
@@ -265,7 +267,9 @@ machine learning project
 
 - 서울 경기 :  높은 비율
 
-#### 10. 주상병대분류 & 부상병 대분류
+#### 10. 연령에 따라서
+
+#### 1. 주상병대분류 & 부상병 대분류
 
 <img width="273" alt="스크린샷 2021-05-13 오전 11 39 50" src="https://user-images.githubusercontent.com/75352728/118069876-ee2df400-b3df-11eb-9e2e-920d3cace097.png">
 
@@ -276,7 +280,7 @@ machine learning project
 
 ## 조금 더 자세하게 알아보자.
 
-#### 11. 주상병 이름 & 부상병 이름
+##### 2. 주상병 이름 & 부상병 이름
 
 
 <img width="273" alt="스크린샷 2021-05-13 오전 11 42 06" src="https://user-images.githubusercontent.com/75352728/118070080-3f3de800-b3e0-11eb-86c2-53efe9599545.png">
@@ -290,7 +294,18 @@ machine learning project
 
 ## 조금 더 자세하게 알아보면~
 
-#### 12. 주상병 & 부상병
+#### 3. 주상병 & 부상병
+
+##### 1. F코드 포함
+
+<img width="413" alt="스크린샷 2021-05-13 오전 11 55 00" src="https://user-images.githubusercontent.com/75352728/118071093-0d2d8580-b3e2-11eb-9094-e6aeb3452e0a.png">
+
+<img width="417" alt="스크린샷 2021-05-13 오전 11 55 17" src="https://user-images.githubusercontent.com/75352728/118071111-16b6ed80-b3e2-11eb-82d6-20bd4c511991.png">
+
+- F코드에서 제일 높은 비중을 나타내는 13-19세 연령에서 반응성 우울증 단일 에피소드, ADHD, 기타 불안장애 순으로 높았음.
+- 6-9세는 ADHD, 틱장애 순으로 10-12세는 ADHD, 틱장애, 반응성우울증의 단일 에피소드 순으로 나타남.
+
+##### 2. 주상병 분류(F코드 제외) & 부상병 분류(F코드 제외)
 
 <img width="358" alt="스크린샷 2021-05-13 오전 11 44 27" src="https://user-images.githubusercontent.com/75352728/118070292-9348cc80-b3e0-11eb-9a2c-f5f7931564b3.png">
 
@@ -307,6 +322,37 @@ machine learning project
 
 - 메네트리에병 : 40-60세에 주로 발병, 소화장애와 연관
 
+#### 11. 성별에 따라서
+
+##### 1. 주상병 분류
+
+<img width="390" alt="스크린샷 2021-05-13 오전 11 51 45" src="https://user-images.githubusercontent.com/75352728/118070830-97c1b500-b3e1-11eb-91c3-30a505d388e6.png">
+
+- 남자 : 운동과다장애 즉 ADHD, 반응성 우울증의 단일 에피소드, 틱장애 순으로 높음
+- 여자 : 반응성 우울증의 단일 에피소드, 운동과다장애, 기타 불안장애 순으로 높음.
+
+<img width="519" alt="스크린샷 2021-05-13 오전 11 52 18" src="https://user-images.githubusercontent.com/75352728/118070864-ac05b200-b3e1-11eb-811e-0d4603e1a69a.png">
+
+- 틱장애 : 여성보다 남성에서 많이 유발되는 질병
+
+<img width="528" alt="스크린샷 2021-05-13 오전 11 52 37" src="https://user-images.githubusercontent.com/75352728/118070893-b758dd80-b3e1-11eb-9178-da2ac5c7c755.png">
+
+- ADHD : 여성보다 남성에서 많이 유발되는 질병
+
+#### 12. 입내원일수 차이
+
+<img width="344" alt="스크린샷 2021-05-13 오후 12 00 35" src="https://user-images.githubusercontent.com/75352728/118071477-d441e080-b3e2-11eb-885c-e87236d57bef.png">
+
+<img width="486" alt="스크린샷 2021-05-13 오후 12 01 02" src="https://user-images.githubusercontent.com/75352728/118071517-e459c000-b3e2-11eb-8b07-35e4c0803b00.png">
+
+<img width="514" alt="스크린샷 2021-05-13 오후 12 01 19" src="https://user-images.githubusercontent.com/75352728/118071532-ee7bbe80-b3e2-11eb-817c-c8d25ce65852.png">
+출처: 마인드 포스트
+
+- 입내원일 수: 보통 1일이지만 조울반응과 조현병, 경도 정신저하는 입내원일수가 길었음
+- 조현병은 입내원일수가 가장 길었음
+- 조현병은 치료경과가 길기 때문.
+
+#### 13. 요양일수 차이
 
 
 ## 4. CONCLUSION
