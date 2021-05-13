@@ -489,19 +489,19 @@ machine learning project
 
 #### 14. 연령
 
-<img width="400" alt="스크린샷 2021-05-13 오후 12 38 17" src="https://user-images.githubusercontent.com/75352728/118074048-29ccbc00-b3e8-11eb-8d52-179e52a2aac1.png">
+<img width="500" alt="스크린샷 2021-05-13 오후 12 38 17" src="https://user-images.githubusercontent.com/75352728/118074048-29ccbc00-b3e8-11eb-8d52-179e52a2aac1.png">
 
 - 의료급여 그룹 군에서 높게 나타났던 O 코드(임신, 출산, 산후질환에 관련된 코드로 관련 질환) : 소득수준에 큰 영향을 미침.
 
 <br/>
 
-<img width="400" alt="스크린샷 2021-05-13 오후 12 40 41" src="https://user-images.githubusercontent.com/75352728/118074201-6e585780-b3e8-11eb-9691-f03782bfb1f2.png">
+<img width="450" alt="스크린샷 2021-05-13 오후 12 40 41" src="https://user-images.githubusercontent.com/75352728/118074201-6e585780-b3e8-11eb-9691-f03782bfb1f2.png">
 
 출처 : 조선비즈/ 경제수준차 따라 산모 건강도 극과 극…저소득층, 합병증 더 많아 / 허지윤기자
 
 <br/>
 
-<img width="400" alt="스크린샷 2021-05-13 오후 12 41 49" src="https://user-images.githubusercontent.com/75352728/118074293-96e05180-b3e8-11eb-969a-08d651d2811e.png">
+<img width="450" alt="스크린샷 2021-05-13 오후 12 41 49" src="https://user-images.githubusercontent.com/75352728/118074293-96e05180-b3e8-11eb-969a-08d651d2811e.png">
 
 - 저소득층 산모는 적절한 관리를 받지 못함 -> 신생아의 건강에 영향을 미침
 - 교육의 미비 등으로 인한 저소득층 청소년의 임신 또한 발생가능
@@ -513,7 +513,7 @@ machine learning project
 
 #### 15. 입내원일
 
-<img width="400" alt="스크린샷 2021-05-13 오후 12 44 00" src="https://user-images.githubusercontent.com/75352728/118074454-e58deb80-b3e8-11eb-8b7c-47b1c3e6a2a9.png">
+<img width="500" alt="스크린샷 2021-05-13 오후 12 44 00" src="https://user-images.githubusercontent.com/75352728/118074454-e58deb80-b3e8-11eb-8b7c-47b1c3e6a2a9.png">
 
 - O코드와 P코드 두 질병 분류 :  전체에 비해 의료급여그룹이 장기간 입내원일 확률이 높음.
 
@@ -521,13 +521,13 @@ machine learning project
 
 #### 16. 주상병
 
-<img width="400" alt="스크린샷 2021-05-13 오후 12 48 41" src="https://user-images.githubusercontent.com/75352728/118074780-a01dee00-b3e9-11eb-8c27-0edd4c580673.png">!
+<img width="500" alt="스크린샷 2021-05-13 오후 12 48 41" src="https://user-images.githubusercontent.com/75352728/118074780-a01dee00-b3e9-11eb-8c27-0edd4c580673.png">!
 
 <br/>
 
 #### 17. 부상병
 
-<img width="400" alt="스크린샷 2021-05-13 오후 12 48 51" src="https://user-images.githubusercontent.com/75352728/118074791-a7dd9280-b3e9-11eb-9c7c-d43f99dbf3e6.png">
+<img width="500" alt="스크린샷 2021-05-13 오후 12 48 51" src="https://user-images.githubusercontent.com/75352728/118074791-a7dd9280-b3e9-11eb-9c7c-d43f99dbf3e6.png">
 
 <br/>
 <br/>
