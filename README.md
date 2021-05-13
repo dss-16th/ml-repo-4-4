@@ -13,10 +13,15 @@ machine learning project
 
 <img width="598" alt="스크린샷 2021-05-13 오후 1 17 37" src="https://user-images.githubusercontent.com/75352728/118076659-972f1b80-b3ed-11eb-8327-f2a94baefcac.png">
 
+- 의료급여에서 높은 세가지 질병들에 대해서 정부 지원금을 늘린다면 소득 수준의 차이가 감소될것 것으로 예상
+
+<br/>
+
 <img width="732" alt="스크린샷 2021-05-13 오후 1 24 19" src="https://user-images.githubusercontent.com/75352728/118077157-87fc9d80-b3ee-11eb-9957-945239b25a9d.png">
 
-- 의료급여에서 높은 세가지 질병들에 대해서 정부 지원금을 늘린다면 소득 수준의 차이가 감소될것 것으로 예상
 - 연령, 성별에 띠른 질병의 차이가 다르므로 연령, 성별에 따라 지원을 달리 한다면 효율적으로 지원 가능할것으로 
+
+<br/>
 
 ***
 
