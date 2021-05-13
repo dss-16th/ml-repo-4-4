@@ -50,7 +50,7 @@ machine learning project
       - 요양기관식별대체키(요약기관현황정보와 조인키)
       - 서식코드
       	
-	<img width="256" alt="스크린샷 2021-05-13 오전 10 32 51" src="https://user-images.githubusercontent.com/75352728/118064786-a9518f80-b3d6-11eb-8136-868187b6c6fb.png">
+		<img width="256" alt="스크린샷 2021-05-13 오전 10 32 51" src="https://user-images.githubusercontent.com/75352728/118064786-a9518f80-b3d6-11eb-8136-868187b6c6fb.png">
 	
       - 주상병명
       - 부상병명
