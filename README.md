@@ -22,6 +22,8 @@ machine learning project
 - 본 프로젝트에서는 청소년의 질병 예측과 소득에 따른 청소년의 질병 행태를 분속하였습니다.
 - 본 프로젝트의 목적은 EDA를 통한 소득에 따른 청소년의 질병 형태를 분석하고 정신질환 코드를 예측하는 최적의 모델을 찾음에 있습니다.
 
+<br/>
+
 ### 1-2. Conclusion
 
 <img width="598" alt="스크린샷 2021-05-13 오후 1 17 37" src="https://user-images.githubusercontent.com/75352728/118076659-972f1b80-b3ed-11eb-8327-f2a94baefcac.png">
