@@ -35,6 +35,7 @@ machine learning project
       - 서식코드
       <img width="256" alt="스크린샷 2021-05-13 오전 10 32 51" src="https://user-images.githubusercontent.com/75352728/118064786-a9518f80-b3d6-11eb-8136-868187b6c6fb.png">
 
+<img width="256" alt="스크린샷 2021-05-13 오전 10 32 51" src="https://user-images.githubusercontent.com/75352728/118064760-98a11980-b3d6-11eb-9c6f-8a00904a5702.png">
       - 주상병명
       - 부상병명
       
