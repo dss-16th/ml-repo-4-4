@@ -195,6 +195,11 @@ machine learning project
 
 <img width="485" alt="스크린샷 2021-05-13 오전 11 06 04" src="https://user-images.githubusercontent.com/75352728/118067290-3696e300-b3db-11eb-9149-5419dd41d67f.png">
 
+- 의료급여 비율 
+	1. 임신, 출산, 산후 질환 (O, P 코드)
+	2. 신경계 질환 (G 코드)
+	3. 정신 및 행동장애 (F코드)
+	
 <img width="371" alt="스크린샷 2021-05-13 오전 11 12 34" src="https://user-images.githubusercontent.com/75352728/118067742-1f0c2a00-b3dc-11eb-95d9-1d8fd68bdaac.png">
 
 - 의료급여 중 주상병과 부상병의 비율
