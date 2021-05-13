@@ -1,3 +1,4 @@
+<img width="256" alt="스크린샷 2021-05-13 오전 10 32 51" src="https://user-images.githubusercontent.com/75352728/118064760-98a11980-b3d6-11eb-9c6f-8a00904a5702.png">
 # 청소년의 질병 예측
 machine learning project
 
@@ -33,20 +34,8 @@ machine learning project
       - 샘플가중치
       - 요양기관식별대체키(요약기관현황정보와 조인키)
       - 서식코드
-        - 의과입원
-        - 의과외래
-        - 치과입원
-        - 치과외래
-        - 조산원입원
-        - 보건기관입원
-        - 보건기관외래
-        - 정신과낮병동
-        - 정신과입원
-        - 정신과외래
-        - 한방입원
-        - 한방외래
-        - 의료급여혈액투석정액
-        - 조산원외래 
+      <img width="256" alt="스크린샷 2021-05-13 오전 10 32 51" src="https://user-images.githubusercontent.com/75352728/118064786-a9518f80-b3d6-11eb-8136-868187b6c6fb.png">
+
       - 주상병명
       - 부상병명
       
@@ -158,7 +147,7 @@ machine learning project
   -  
 - [이주영]
   - https://github.com/leekj3133
-  - 데이터 전처리, EDA
+  - 데이터 확장자 변환(parquet), 데이터 전처리, EDA
 
 *****
 
@@ -168,11 +157,24 @@ machine learning project
 
 
 ## 3. PROCESS
+
 데이터 확장자 변경 -> 데이터 전처리 -> EDA -> 모델 학습과 예측 평가 -> 모델 검증
 
 <br/>
 
 ### 3-1 데이터 전처리
+
+#### 1. 용량 줄이기
+
+- 용량이 큰 데이터이기 떄문에 용량이 작은 데이터로 바꿔야함
+- object 데이터 타입을 category 타입으로 변환 
+- csv 파일을 parquet으로 변환
+	- df.to_parquet('경로/파일이름.parquet')
+	- df = pd.read_parquet('./경로/파일이름.parquet', engine='pyarrow') 
+	
+#### 2. 데이터 mapping
+
+- 코드로 이루어진 데이터 EDA를 위해 한글로 mapping 
 
 ### 3-2 시각화
 
