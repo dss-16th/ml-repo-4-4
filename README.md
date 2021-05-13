@@ -294,6 +294,7 @@ machine learning project
 <img width="220" alt="스크린샷 2021-05-13 오전 11 42 16" src="https://user-images.githubusercontent.com/75352728/118070098-45cc5f80-b3e0-11eb-8659-36ed7bd6542c.png">
 
 <img width="192" alt="스크린샷 2021-05-13 오전 11 42 34" src="https://user-images.githubusercontent.com/75352728/118070141-4fee5e00-b3e0-11eb-9f65-02414d6f03d2.png">
+출처 :  연구보고서/nre2018-10_03.pdf
 
 - 정신질환: 소화계통과도 연관
 - 소화계통: 정신질환과 연관
@@ -307,6 +308,7 @@ machine learning project
 <img width="413" alt="스크린샷 2021-05-13 오전 11 55 00" src="https://user-images.githubusercontent.com/75352728/118071093-0d2d8580-b3e2-11eb-9094-e6aeb3452e0a.png">
 
 <img width="417" alt="스크린샷 2021-05-13 오전 11 55 17" src="https://user-images.githubusercontent.com/75352728/118071111-16b6ed80-b3e2-11eb-82d6-20bd4c511991.png">
+출처 : 건강보험심사평가원, 보건의료빅데이터개방 시스템
 
 - F코드에서 제일 높은 비중을 나타내는 13-19세 연령에서 반응성 우울증 단일 에피소드, ADHD, 기타 불안장애 순으로 높았음.
 - 6-9세는 ADHD, 틱장애 순으로 10-12세는 ADHD, 틱장애, 반응성우울증의 단일 에피소드 순으로 나타남.
@@ -321,10 +323,12 @@ machine learning project
 - 기타 약물 유발 이차성 파킨슨병, 메네트리에병: 보통 유발연령이 장년층 이상에서 나타남.
 
 <img width="545" alt="스크린샷 2021-05-13 오전 11 44 54" src="https://user-images.githubusercontent.com/75352728/118070323-a491d900-b3e0-11eb-8e07-6d9cc9d49ffc.png">
+출처 : 통합 뇌질환학회
 
 - 약물유발 이차성 파킨슨병: 정신질환 약물 복용이 원인으로 발생
 
 <img width="518" alt="스크린샷 2021-05-13 오전 11 45 23" src="https://user-images.githubusercontent.com/75352728/118070352-b4a9b880-b3e0-11eb-83c2-4043ef71a453.png">
+출처 : 위키피디아
 
 - 메네트리에병 : 40-60세에 주로 발병, 소화장애와 연관
 
@@ -338,10 +342,12 @@ machine learning project
 - 여자 : 반응성 우울증의 단일 에피소드, 운동과다장애, 기타 불안장애 순으로 높음.
 
 <img width="519" alt="스크린샷 2021-05-13 오전 11 52 18" src="https://user-images.githubusercontent.com/75352728/118070864-ac05b200-b3e1-11eb-811e-0d4603e1a69a.png">
+출처 : 대한민국정책브리핑/소아.청소년에서 주로 발생하는 ‘틱장애’/보건복지부
 
 - 틱장애 : 여성보다 남성에서 많이 유발되는 질병
 
 <img width="528" alt="스크린샷 2021-05-13 오전 11 52 37" src="https://user-images.githubusercontent.com/75352728/118070893-b758dd80-b3e1-11eb-9178-da2ac5c7c755.png">
+출처: 연합뉴스/ 한해 ADHD 진료환자 5만3천명…"80% 남성, 57% 10대"/ 강애란 기자
 
 - ADHD : 여성보다 남성에서 많이 유발되는 질병
 
@@ -350,10 +356,9 @@ machine learning project
 <img width="344" alt="스크린샷 2021-05-13 오후 12 00 35" src="https://user-images.githubusercontent.com/75352728/118071477-d441e080-b3e2-11eb-885c-e87236d57bef.png">
 
 <img width="486" alt="스크린샷 2021-05-13 오후 12 01 02" src="https://user-images.githubusercontent.com/75352728/118071517-e459c000-b3e2-11eb-8b07-35e4c0803b00.png">
-
+출처 : 서울대학교어린이병원 / 진료질환정보 조현병
 <img width="514" alt="스크린샷 2021-05-13 오후 12 01 19" src="https://user-images.githubusercontent.com/75352728/118071532-ee7bbe80-b3e2-11eb-817c-c8d25ce65852.png">
-출처: 마인드 포스트
-
+출처: 마인드 포스트 / [당사자 가족 칼럼] “청소년 정신질환 의심시 부모 동의 없이도 전문가 상담받도록 해야” / 배점태 심지회 부회장
 
 - 입내원일 수: 보통 1일이지만 조울반응과 조현병, 경도 정신저하는 입내원일수가 길었음
 - 조현병은 입내원일수가 가장 길었음
@@ -370,6 +375,7 @@ machine learning project
 - 의료급여 그룹 : 중등도 정신장애이 높음을 알 수 있는데 소득 수준이 낮을 수록 값비싼 정신과 진료 비용으로 인해 초기에 치료를 할 수 없어, 질환이 심화 되기 떄문. 
 
 <img width="351" alt="스크린샷 2021-05-13 오후 12 06 50" src="https://user-images.githubusercontent.com/75352728/118071919-b3c65600-b3e3-11eb-8152-4b0c31f6f9a1.png">
+출처 : 주간경향 1427호 / [특집]소득격차는 호르몬을 따라 흐른다 / 김태훈기자
 
 - 행동장애: 소득이 낮은 가정에서 비교적 육아에 신경 쓰기 어려워 아이의 욕구가 충족되지 않아 아이의 스트레스 호르몬이 자주 분비되므로 ADHD가 많이 나타남.
 
