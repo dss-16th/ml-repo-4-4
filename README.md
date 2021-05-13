@@ -1,4 +1,3 @@
-<img width="256" alt="스크린샷 2021-05-13 오전 10 32 51" src="https://user-images.githubusercontent.com/75352728/118064760-98a11980-b3d6-11eb-9c6f-8a00904a5702.png">
 # 청소년의 질병 예측
 machine learning project
 
