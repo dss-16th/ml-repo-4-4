@@ -1,3 +1,4 @@
+
 # 청소년의 질병 예측
 machine learning project
 
@@ -194,6 +195,12 @@ machine learning project
 
 <img width="485" alt="스크린샷 2021-05-13 오전 11 06 04" src="https://user-images.githubusercontent.com/75352728/118067290-3696e300-b3db-11eb-9149-5419dd41d67f.png">
 
+<img width="371" alt="스크린샷 2021-05-13 오전 11 12 34" src="https://user-images.githubusercontent.com/75352728/118067742-1f0c2a00-b3dc-11eb-95d9-1d8fd68bdaac.png">
+
+- 의료급여 중 주상병과 부상병의 비율
+	- F 코드 :  K 코드 소화기 계통과 연관
+	- G 코드 : F 코드 정신질환과 연관
+	- P 코드 : Q 코드 기형, 선천적이상, 유전병과 연관
 
 #### 2. 
 ## 4. CONCLUSION
