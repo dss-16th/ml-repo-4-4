@@ -1,3 +1,4 @@
+
 # 청소년의 질병 예측
 machine learning project
 
@@ -9,12 +10,9 @@ machine learning project
 ***
 ## 요약
 
+<img width="598" alt="스크린샷 2021-05-13 오후 1 17 37" src="https://user-images.githubusercontent.com/75352728/118076659-972f1b80-b3ed-11eb-8327-f2a94baefcac.png">
 
-
-
-
-
-
+- 의료급여에서 높은 세가지 질병들에 대해서 정부 지원금을 늘린다면 소득 수준의 차이가 감소될것으로 예상된다.
 
 ***
 
