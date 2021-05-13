@@ -68,6 +68,9 @@ machine learning project
 - csv 파일을 parquet으로 변환
 
 ` df.to_parquet('경로/파일이름.parquet')`
+
+<br/>
+
 `df = pd.read_parquet('./경로/파일이름.parquet', engine='pyarrow') `
 	
 	
