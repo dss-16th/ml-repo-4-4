@@ -57,7 +57,7 @@ machine learning project
 
 
 
-### 1-2 데이터
+### 1-5 데이터
 
 <br/>
 
@@ -65,7 +65,7 @@ machine learning project
   - 뇌과학연구소
 <br/>
 
-### 1-3 팀원 / 역할
+### 1-6 팀원 / 역할
 - [고원진]
   -  https://github.com/
   -  
