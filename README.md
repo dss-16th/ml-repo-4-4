@@ -129,8 +129,11 @@ machine learning project
       - 시도코드
       - 요양기관종별코드
       <img width="341" alt="스크린샷 2021-05-13 오전 10 25 43" src="https://user-images.githubusercontent.com/75352728/118064224-95595e00-b3d5-11eb-979d-b9e8b91219b6.png">
+      
       - 병상등급
+      
       <img width="341" alt="스크린샷 2021-05-13 오전 10 26 13" src="https://user-images.githubusercontent.com/75352728/118064271-a609d400-b3d5-11eb-8311-3aa95d03a47a.png">
+      
       - 50병상당의사수
 		    - 총 의사수 / 총 병상수 x 50
       - 50병상당치과의사수
