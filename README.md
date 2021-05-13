@@ -405,7 +405,14 @@ machine learning project
 
 - O코드와 P코드 두 질병 분류 :  전체에 비해 의료급여그룹이 장기간 입내원일 확률이 높음.
 
+#### 16. 주상병
 
+<img width="452" alt="스크린샷 2021-05-13 오후 12 48 41" src="https://user-images.githubusercontent.com/75352728/118074780-a01dee00-b3e9-11eb-8c27-0edd4c580673.png">!
+
+
+#### 17. 부상병
+
+<img width="452" alt="스크린샷 2021-05-13 오후 12 48 51" src="https://user-images.githubusercontent.com/75352728/118074791-a7dd9280-b3e9-11eb-9c7c-d43f99dbf3e6.png">
 
 
 ## 4. CONCLUSION
