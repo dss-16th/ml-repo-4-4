@@ -207,7 +207,108 @@ machine learning project
 	- G 코드 : F 코드 정신질환과 연관
 	- P 코드 : Q 코드 기형, 선천적이상, 유전병과 연관
 
-#### 2. 
+#### 2. 연령
+
+<img width="205" alt="스크린샷 2021-05-13 오전 11 28 54" src="https://user-images.githubusercontent.com/75352728/118069045-672c4c00-b3de-11eb-8b36-5e068541853a.png">
+
+- 전체 비율과 비교하였을 때 13-19세 의료급여 비율이 다른 연령보다 현저히 높게 나타남
+
+#### 3. 지역
+
+<img width="320" alt="스크린샷 2021-05-13 오전 11 30 03" src="https://user-images.githubusercontent.com/75352728/118069135-90e57300-b3de-11eb-9030-c25f68a47643.png">
+
+- 서울 경기에 비율이 높음을
+
+#### 4. 월
+
+<img width="221" alt="스크린샷 2021-05-13 오전 11 30 32" src="https://user-images.githubusercontent.com/75352728/118069169-a22e7f80-b3de-11eb-8fa5-395118feaebc.png">
+
+#### 5. 주상병 이름
+
+<img width="221" alt="스크린샷 2021-05-13 오전 11 30 57" src="https://user-images.githubusercontent.com/75352728/118069195-b07c9b80-b3de-11eb-9840-f591d49e5e49.png">
+
+- 의료급여와 전체를 비교하였을 때 전체에서 볼 수 없었던 소아기 및 청소년기 행동 및 정서장애가 상위 10개의 10개의 상병안에 포함되어있음
+- 의료급여에서 정신질환이 높은 비율이 나타남을 알 수 있음
+
+#### 6. 부상병 이름
+
+<img width="233" alt="스크린샷 2021-05-13 오전 11 32 17" src="https://user-images.githubusercontent.com/75352728/118069286-e02ba380-b3de-11eb-9c09-b7cd759fe22c.png">
+
+- 전체와 의료급여를 비교했을 떄 기분 장애, 소아청소년기 행동 정서 장애 등이 상위 10개 상병에 포함됨.
+- 기분 장애, 소아청소년기 행동 정서 장애 : F코드인 정신질환에 포함되는 상병
+- 의료급여에서 정신질환 비율이 높은 것을 알 수 있음.
+
+## 의료급여에서 정신질환이 높은 확률이 나타나는 것을 알 수 있다. 정신질환(F코드)에 대해 알아보자!
+
+#### 7. 연령
+
+<img width="233" alt="스크린샷 2021-05-13 오전 11 34 56" src="https://user-images.githubusercontent.com/75352728/118069477-3e588680-b3df-11eb-9301-4192b406c666.png">
+
+- 정신질환 코드 : 청소년의 비율이 현저히 높음
+- 전체, 의료급여 청소년 비울이 높음
+
+#### 8. 병원
+
+<img width="233" alt="스크린샷 2021-05-13 오전 11 36 24" src="https://user-images.githubusercontent.com/75352728/118069622-752e9c80-b3df-11eb-8ab1-ce628e4465d8.png">
+
+- 의료급여 그룹: 외과외래 다음으로 정신과 입원에서 높은 비율이 나타남.
+
+<img width="313" alt="스크린샷 2021-05-13 오전 11 37 18" src="https://user-images.githubusercontent.com/75352728/118069696-93949800-b3df-11eb-974f-892794985bd8.png">
+
+<img width="265" alt="스크린샷 2021-05-13 오전 11 37 36" src="https://user-images.githubusercontent.com/75352728/118069720-9db69680-b3df-11eb-8df9-db7370fd2c50.png">
+
+- 이러한 현상의 원인: 정신과의 진료비 제한으로 인해 조기에 치료를 할 수 없어 장기 입원을 하기 때문임.
+
+#### 9. 지역
+
+<img width="386" alt="스크린샷 2021-05-13 오전 11 38 39" src="https://user-images.githubusercontent.com/75352728/118069788-c3dc3680-b3df-11eb-8012-de3054be301b.png">
+
+- 서울 경기 :  높은 비율
+
+#### 10. 주상병대분류 & 부상병 대분류
+
+<img width="273" alt="스크린샷 2021-05-13 오전 11 39 50" src="https://user-images.githubusercontent.com/75352728/118069876-ee2df400-b3df-11eb-9e2e-920d3cace097.png">
+
+
+<img width="273" alt="스크린샷 2021-05-13 오전 11 40 15" src="https://user-images.githubusercontent.com/75352728/118069920-fd14a680-b3df-11eb-955e-42fc2d72dddd.png">
+
+- 정신질환: 신경계통 질환, 근골격 결합조직 질환, 대사질환, 소화계통 질환과 연관됨.
+
+## 조금 더 자세하게 알아보자.
+
+#### 11. 주상병 이름 & 부상병 이름
+
+
+<img width="273" alt="스크린샷 2021-05-13 오전 11 42 06" src="https://user-images.githubusercontent.com/75352728/118070080-3f3de800-b3e0-11eb-86c2-53efe9599545.png">
+
+<img width="220" alt="스크린샷 2021-05-13 오전 11 42 16" src="https://user-images.githubusercontent.com/75352728/118070098-45cc5f80-b3e0-11eb-8659-36ed7bd6542c.png">
+
+<img width="192" alt="스크린샷 2021-05-13 오전 11 42 34" src="https://user-images.githubusercontent.com/75352728/118070141-4fee5e00-b3e0-11eb-9f65-02414d6f03d2.png">
+
+- 정신질환: 소화계통과도 연관
+- 소화계통: 정신질환과 연관
+
+## 조금 더 자세하게 알아보면~
+
+#### 12. 주상병 & 부상병
+
+<img width="358" alt="스크린샷 2021-05-13 오전 11 44 27" src="https://user-images.githubusercontent.com/75352728/118070292-9348cc80-b3e0-11eb-9a2c-f5f7931564b3.png">
+
+- 부상병분류코드 : F코드이면서 부상병도 F코드인 환자가 제일 많음.
+- F코드를 제외한 다른 부상병분류코드 : 소화불량, 기타 약물유발 이차성 파킨슨병 상세불명의 위염 메네트리에병 순으로 높음
+- 소화기관 질환 함께 발생.
+- 기타 약물 유발 이차성 파킨슨병, 메네트리에병: 보통 유발연령이 장년층 이상에서 나타남.
+
+<img width="545" alt="스크린샷 2021-05-13 오전 11 44 54" src="https://user-images.githubusercontent.com/75352728/118070323-a491d900-b3e0-11eb-8e07-6d9cc9d49ffc.png">
+
+- 약물유발 이차성 파킨슨병: 정신질환 약물 복용이 원인으로 발생
+
+<img width="518" alt="스크린샷 2021-05-13 오전 11 45 23" src="https://user-images.githubusercontent.com/75352728/118070352-b4a9b880-b3e0-11eb-83c2-4043ef71a453.png">
+
+- 메네트리에병 : 40-60세에 주로 발병, 소화장애와 연관
+
+
+
 ## 4. CONCLUSION
 
 ## 5. comment & limitations
