@@ -26,9 +26,14 @@ machine learning project
 - 본 프로젝트의 목적은 EDA를 통한 소득에 따른 청소년의 질병 형태를 분석하고 정신질환 코드를 예측하는 최적의 모델을 찾음에 있습니다.
 
 ### 1-2 데이터
+
+<br/>
+
 1 출처
   - 뇌과학연구소
-  
+
+<br/>
+ 
 2. 데이터 구성
   - 명세서 일반 내역
     - Data 갯수 : 약 1570만개
@@ -44,24 +49,24 @@ machine learning project
       - 샘플가중치
       - 요양기관식별대체키(요약기관현황정보와 조인키)
       - 서식코드
-      <img width="256" alt="스크린샷 2021-05-13 오전 10 32 51" src="https://user-images.githubusercontent.com/75352728/118064786-a9518f80-b3d6-11eb-8136-868187b6c6fb.png">
-
+      	<img width="256" alt="스크린샷 2021-05-13 오전 10 32 51" src="https://user-images.githubusercontent.com/75352728/118064786-a9518f80-b3d6-11eb-8136-868187b6c6fb.png">
+	
       - 주상병명
       - 부상병명
       
-      <img width="339" alt="스크린샷 2021-05-13 오전 10 13 19" src="https://user-images.githubusercontent.com/75352728/118063328-d81a3680-b3d3-11eb-9d2f-3a3360214286.png">
+      	<img width="339" alt="스크린샷 2021-05-13 오전 10 13 19" src="https://user-images.githubusercontent.com/75352728/118063328-d81a3680-b3d3-11eb-9d2f-3a3360214286.png">
 
       - 진료과목코드
       
-      <img width="290" alt="스크린샷 2021-05-13 오전 10 16 12" src="https://user-images.githubusercontent.com/75352728/118063532-3f37eb00-b3d4-11eb-88a4-acf67c49ac40.png">
+     	 <img width="290" alt="스크린샷 2021-05-13 오전 10 16 12" src="https://user-images.githubusercontent.com/75352728/118063532-3f37eb00-b3d4-11eb-88a4-acf67c49ac40.png">
 
       - 표시과목코드
       
-      <img width="227" alt="스크린샷 2021-05-13 오전 10 14 13" src="https://user-images.githubusercontent.com/75352728/118063393-f849f580-b3d3-11eb-8b0b-c0987b92eac3.png">
+      	<img width="227" alt="스크린샷 2021-05-13 오전 10 14 13" src="https://user-images.githubusercontent.com/75352728/118063393-f849f580-b3d3-11eb-8b0b-c0987b92eac3.png">
 
       - 내과세부과목코드
       
-      <img width="126" alt="스크린샷 2021-05-13 오전 10 14 25" src="https://user-images.githubusercontent.com/75352728/118063405-013ac700-b3d4-11eb-9c87-b18a0aae6f95.png">
+      	<img width="126" alt="스크린샷 2021-05-13 오전 10 14 25" src="https://user-images.githubusercontent.com/75352728/118063405-013ac700-b3d4-11eb-9c87-b18a0aae6f95.png">
 
       - 요양개시일자(진료 시작 일자)
       - 요양종료일자(진료 종료 일자)
@@ -78,6 +83,8 @@ machine learning project
       - 도착경로 + 입원도착경로
         - 타기관경유, 응급구조대, 기타 입원경로(응급실, 외래)
       - 질병군(DRG) 청구 번호
+      
+ <br/>
  
   - 진료 내역
     - 데이터 갯수 : 약 5400만개
@@ -88,7 +95,7 @@ machine learning project
       - 항목코드
       - 분류코드구분
      
-     <img width="290" alt="스크린샷 2021-05-13 오전 10 18 31" src="https://user-images.githubusercontent.com/75352728/118063702-92aa3900-b3d4-11eb-8d3a-89f9119cca2b.png">
+    	 <img width="290" alt="스크린샷 2021-05-13 오전 10 18 31" src="https://user-images.githubusercontent.com/75352728/118063702-92aa3900-b3d4-11eb-8d3a-89f9119cca2b.png">
       
       - 분류코드 (수가, 약가, 재료대 코드)
       - 1회투약량
@@ -102,6 +109,8 @@ machine learning project
       - 가산율적용금액
       - 약주성분코드
 
+<br/>
+
   - 상병내역
     - 데이터 갯수 : 약 4500만개
     - 컬럼 수 : 5개
@@ -110,6 +119,8 @@ machine learning project
       -  수진자 상병일련번호
       -  청구진료과목코드
       -  주상병코드
+      
+      <br/>
       
   - 원외처방내역
     - 데이터 갯수 : 약 4700만개
@@ -125,7 +136,9 @@ machine learning project
         - 단가 
         - 단가 * 총사용량
         - 등재약의 성분코드
-        
+     
+     <br/>
+     
    - 요양기관현황정보
     - 데이터 갯수 : 약 4700만개
     - 컬럼 수 : 10개  
@@ -134,11 +147,11 @@ machine learning project
       - 시도코드
       - 요양기관종별코드
 
-      <img width="341" alt="스크린샷 2021-05-13 오전 10 25 43" src="https://user-images.githubusercontent.com/75352728/118064224-95595e00-b3d5-11eb-979d-b9e8b91219b6.png">
+     	 <img width="341" alt="스크린샷 2021-05-13 오전 10 25 43" src="https://user-images.githubusercontent.com/75352728/118064224-95595e00-b3d5-11eb-979d-b9e8b91219b6.png">
       
       - 병상등급
       
-      <img width="341" alt="스크린샷 2021-05-13 오전 10 26 13" src="https://user-images.githubusercontent.com/75352728/118064271-a609d400-b3d5-11eb-8311-3aa95d03a47a.png">
+      	<img width="341" alt="스크린샷 2021-05-13 오전 10 26 13" src="https://user-images.githubusercontent.com/75352728/118064271-a609d400-b3d5-11eb-8311-3aa95d03a47a.png">
       
       - 50병상당의사수
 		    - 총 의사수 / 총 병상수 x 50
@@ -168,7 +181,7 @@ machine learning project
 
 데이터 확장자 변경 -> 데이터 전처리 -> EDA -> 모델 학습과 예측 평가 -> 모델 검증
 
-<br/>
+<br/><br/>
 
 ### 2-1 데이터 전처리
 
@@ -180,11 +193,17 @@ machine learning project
 	- df.to_parquet('경로/파일이름.parquet')
 	- df = pd.read_parquet('./경로/파일이름.parquet', engine='pyarrow') 
 	
+	
 #### 2. 데이터 mapping
 
 - 코드로 이루어진 데이터 EDA를 위해 한글로 mapping 
 
+<br/>
+<br/>
+
 ### 2-2 시각화
+
+<br/>
 
 #### 1. 병원
 
