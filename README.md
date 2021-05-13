@@ -192,6 +192,8 @@ machine learning project
 
 
 <img width="338" alt="스크린샷 2021-05-13 오전 11 04 09" src="https://user-images.githubusercontent.com/75352728/118067141-f20b4780-b3da-11eb-9156-b52b7b5e07a0.png">
+출처 : 마인드 포스트 / 정신질환자 의료급여 수준 건강보험의 58%…'행위별 수가제'로 전환해야 / 박종언 기자
+
 
 ## 소득에 따라 질병에 차이가 많다!! 소득 관련해서 알아보자!!
 
