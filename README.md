@@ -10,7 +10,11 @@ machine learning project
 
 ***
 
+<br/>
+
 ## 1. INTRO
+
+<br/>
 
 ### 1-1. Purpose
 
