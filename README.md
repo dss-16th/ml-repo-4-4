@@ -49,15 +49,19 @@ machine learning project
         - 조산원외래 
       - 주상병명
       - 부상병명
+      
       <img width="339" alt="스크린샷 2021-05-13 오전 10 13 19" src="https://user-images.githubusercontent.com/75352728/118063328-d81a3680-b3d3-11eb-9d2f-3a3360214286.png">
 
       - 진료과목코드
+      
       <img width="290" alt="스크린샷 2021-05-13 오전 10 16 12" src="https://user-images.githubusercontent.com/75352728/118063532-3f37eb00-b3d4-11eb-88a4-acf67c49ac40.png">
 
       - 표시과목코드
+      
       <img width="227" alt="스크린샷 2021-05-13 오전 10 14 13" src="https://user-images.githubusercontent.com/75352728/118063393-f849f580-b3d3-11eb-8b0b-c0987b92eac3.png">
 
       - 내과세부과목코드
+      
       <img width="126" alt="스크린샷 2021-05-13 오전 10 14 25" src="https://user-images.githubusercontent.com/75352728/118063405-013ac700-b3d4-11eb-9c87-b18a0aae6f95.png">
 
       - 요양개시일자(진료 시작 일자)
@@ -130,6 +134,7 @@ machine learning project
       - 요양기관식별대체키
       - 시도코드
       - 요양기관종별코드
+
       <img width="341" alt="스크린샷 2021-05-13 오전 10 25 43" src="https://user-images.githubusercontent.com/75352728/118064224-95595e00-b3d5-11eb-979d-b9e8b91219b6.png">
       
       - 병상등급
@@ -145,8 +150,6 @@ machine learning project
       - 50병상당 간호사 수
         - 총 긴호수 / 총 병상수 x 50
 
-
-4.
 <br/>
 
 ### 1-3 팀원 / 역할
