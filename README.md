@@ -69,7 +69,6 @@ machine learning project
 
 ` df.to_parquet('경로/파일이름.parquet')`
 
-<br/>
 
 `df = pd.read_parquet('./경로/파일이름.parquet', engine='pyarrow') `
 	
