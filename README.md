@@ -260,6 +260,7 @@ machine learning project
 - 의료급여 그룹: 외과외래 다음으로 정신과 입원에서 높은 비율이 나타남.
 
 <img width="313" alt="스크린샷 2021-05-13 오전 11 37 18" src="https://user-images.githubusercontent.com/75352728/118069696-93949800-b3df-11eb-974f-892794985bd8.png">
+출처 : 조선일보 / 저소득층 정신질환자 울리는 의료급여/ 
 
 <img width="265" alt="스크린샷 2021-05-13 오전 11 37 36" src="https://user-images.githubusercontent.com/75352728/118069720-9db69680-b3df-11eb-8df9-db7370fd2c50.png">
 
