@@ -178,6 +178,24 @@ machine learning project
 
 ### 3-2 시각화
 
+#### 1. 병원
+
+<img width="391" alt="스크린샷 2021-05-13 오전 11 00 08" src="https://user-images.githubusercontent.com/75352728/118066844-62fe2f80-b3da-11eb-996d-66460bdcbfc0.png">
+
+- 의료법 시행규칙에 명시되어 있는 것처럼 요양기관의 종류에 따라 법률에 명시된 병상 수 
+- 즉 병원 베드 수, 의사, 치과의사, 한의사, 간호사 수나 그 이상을 둘 수 있습니다.
+- 5가지 컬럼 대신 요양기관의 종류를 사용
+
+<img width="485" alt="스크린샷 2021-05-13 오전 11 06 04" src="https://user-images.githubusercontent.com/75352728/118067290-3696e300-b3db-11eb-9149-5419dd41d67f.png">
+
+
+<img width="307" alt="스크린샷 2021-05-13 오전 11 02 12" src="https://user-images.githubusercontent.com/75352728/118067010-ac4e7f00-b3da-11eb-953c-012787e2afa3.png">
+
+<img width="338" alt="스크린샷 2021-05-13 오전 11 04 09" src="https://user-images.githubusercontent.com/75352728/118067141-f20b4780-b3da-11eb-9156-b52b7b5e07a0.png">
+
+## 소득에 따라 질병에 차이가 많다!! 소득 관련해서 알아보자!!
+
+#### 2. 
 ## 4. CONCLUSION
 
 ## 5. comment & limitations
