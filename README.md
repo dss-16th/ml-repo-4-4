@@ -84,7 +84,9 @@ machine learning project
       - 줄번호
       - 항목코드
       - 분류코드구분
-      <img width="290" alt="스크린샷 2021-05-13 오전 10 18 31" src="https://user-images.githubusercontent.com/75352728/118063702-92aa3900-b3d4-11eb-8d3a-89f9119cca2b.png">
+     
+     <img width="290" alt="스크린샷 2021-05-13 오전 10 18 31" src="https://user-images.githubusercontent.com/75352728/118063702-92aa3900-b3d4-11eb-8d3a-89f9119cca2b.png">
+      
       - 분류코드 (수가, 약가, 재료대 코드)
       - 1회투약량
       - 1일투약량
