@@ -357,7 +357,7 @@ machine learning project
 
 <img width="400" alt="스크린샷 2021-05-13 오전 11 42 16" src="https://user-images.githubusercontent.com/75352728/118070098-45cc5f80-b3e0-11eb-8659-36ed7bd6542c.png">
 
-<img width="350" alt="스크린샷 2021-05-13 오전 11 42 34" src="https://user-images.githubusercontent.com/75352728/118070141-4fee5e00-b3e0-11eb-9f65-02414d6f03d2.png">
+<img width="300" alt="스크린샷 2021-05-13 오전 11 42 34" src="https://user-images.githubusercontent.com/75352728/118070141-4fee5e00-b3e0-11eb-9f65-02414d6f03d2.png">
 출처 :  연구보고서/nre2018-10_03.pdf
 
 <br/>
