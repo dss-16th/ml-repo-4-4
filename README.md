@@ -31,7 +31,7 @@ machine learning project
 
 <br/>
 
-<img width="732" alt="스크린샷 2021-05-13 오후 1 24 19" src="https://user-images.githubusercontent.com/75352728/118077157-87fc9d80-b3ee-11eb-9957-945239b25a9d.png">
+<img width="732" heigh="500" alt="스크린샷 2021-05-13 오후 1 24 19" src="https://user-images.githubusercontent.com/75352728/118077157-87fc9d80-b3ee-11eb-9957-945239b25a9d.png">
 
 - 연령, 성별에 띠른 질병의 차이가 다르므로 연령, 성별에 따라 지원을 달리 한다면 효율적으로 지원 가능할것으로 보임. 
 
