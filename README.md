@@ -144,7 +144,8 @@ machine learning project
 	
 <br/>
 
-<img width="400" alt="스크린샷 2021-05-13 오전 11 12 34" src="https://user-images.githubusercontent.com/75352728/118067742-1f0c2a00-b3dc-11eb-95d9-1d8fd68bdaac.png">
+
+<img width="400" alt="스크린샷 2021-05-15 오후 10 18 02" src="https://user-images.githubusercontent.com/75352728/118362684-7a503f00-b5cb-11eb-8ddb-9d1005a206a9.png">
 
 - 의료급여 중 주상병과 부상병의 비율
 	- F 코드 :  K 코드 소화기 계통과 연관
