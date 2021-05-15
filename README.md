@@ -25,7 +25,7 @@ machine learning project
 
 ### 1-2. Conclusion
 
-<img width="598" alt="스크린샷 2021-05-13 오후 1 17 37" src="https://user-images.githubusercontent.com/75352728/118076659-972f1b80-b3ed-11eb-8327-f2a94baefcac.png">
+<img width="1096" alt="스크린샷 2021-05-15 오후 9 28 01" src="https://user-images.githubusercontent.com/75352728/118361011-70770d80-b5c4-11eb-8f5e-823ce0b12937.png">
 
 - 의료급여에서 높은 세가지 질병들에 대해서 정부 지원금을 늘린다면 소득 수준의 차이가 감소될것 것으로 예상
 
