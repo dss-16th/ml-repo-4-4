@@ -38,8 +38,6 @@ machine learning project
 
 <br/>
 
-### 1-3. CONCLUSION
-
 1. 소득수준에 따라 질병의 종류가 다르다.
 2. 의료급여 그룹 안에서 연령과 성별에 따라 질병의 종류의 차이가 있다.
 3. 질병에 따라 연령, 성별 비율 또한 다르다.
@@ -48,7 +46,7 @@ machine learning project
 <br/>
 <br/>
 
-### 1-4. Comment & Limitations
+### 1-3. Comment & Limitations
 - F, P, O 코드 질환에 대해서만 EDA를 진행하였기 때문에 다른 질환에서의 성별, 연령에 따른 차이를 알 수 없다.
 - 1개년 데이터만 사용하였기 때문에 연도별 변화는 알수 없다.
 
