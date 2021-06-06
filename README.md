@@ -1,4 +1,5 @@
 
+
 # 청소년의 질병 예측
 machine learning project
 
@@ -78,7 +79,7 @@ machine learning project
 
 ## 2. PROCESS
 
-데이터 확장자 변경 -> 데이터 전처리 -> EDA -> 모델 학습과 예측 평가 -> 모델 검증
+<img width="106" alt="스크린샷 2021-06-07 오전 12 17 51" src="https://user-images.githubusercontent.com/75352728/120929884-ce12fb80-c725-11eb-859f-99886025306f.png">
 
 <br/><br/>
 
