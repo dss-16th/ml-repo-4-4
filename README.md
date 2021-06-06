@@ -66,10 +66,10 @@ machine learning project
 ### 1-6 팀원 / 역할
 - [고원진]
   -  https://github.com/
-  -  
+  -  발표
 - [이주영]
   - https://github.com/leekj3133
-  - 데이터 확장자 변환(parquet), 데이터 전처리, EDA
+  - 데이터 확장자 변환(parquet), 데이터 전처리, EDA, 발표, README 작성
 
 *****
 
