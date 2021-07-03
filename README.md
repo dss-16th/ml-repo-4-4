@@ -128,7 +128,7 @@ machine learning project
 <br/>
 <br/>
 
-<img width="400" alt="스크린샷 2021-05-13 오전 11 04 09" src="https://user-images.githubusercontent.com/75352728/124360358-51136d00-dc64-11eb-8292-0251beb68ca0.pngg">
+<img width="400" alt="스크린샷 2021-05-13 오전 11 04 09" src="https://user-images.githubusercontent.com/75352728/124360358-51136d00-dc64-11eb-8292-0251beb68ca0.png">
 
 
 <br/>
