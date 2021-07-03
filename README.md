@@ -6,8 +6,6 @@ machine learning project
 <img width="450" src="https://user-images.githubusercontent.com/75352728/124350336-1f33e380-dc2f-11eb-87fb-3df6e7b2f0fe.png">
 
 
-*그림 출처 : freepik
-
 ***
 
 <br/>
