@@ -128,7 +128,14 @@ machine learning project
 <br/>
 <br/>
 
-## 소득에 따라 질병에 차이가 많다!! 소득 관련해서 알아보자!!
+<img width="400" alt="스크린샷 2021-05-13 오전 11 04 09" src="https://user-images.githubusercontent.com/75352728/124360358-51136d00-dc64-11eb-8292-0251beb68ca0.pngg">
+
+
+<br/>
+
+## 공중보건 문제에는 항상 거론되는 건강불평등을 주제로 진행해보자!
+
+## 소득에 따라 질병에 차이가 있다.!! 
 
 <br/>
 
