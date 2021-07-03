@@ -15,6 +15,12 @@ machine learning project
 
 ### 1-1. Purpose
 
+<br/>
+
+<img width="400" alt="스크린샷 2021-05-13 오전 11 04 09" src="https://user-images.githubusercontent.com/75352728/124360358-51136d00-dc64-11eb-8292-0251beb68ca0.png">
+
+<br/>
+
 - 뇌과학연구소가 제공한 2018년 데이터를 활용한 머신러닝 프로젝트입니다.
 - 본 프로젝트에서는 청소년의 질병 예측과 소득에 따른 청소년의 질병 행태를 분석하였습니다.
 - 본 프로젝트의 목적은 EDA를 통한 소득에 따른 청소년의 질병 형태를 분석하고 정신질환 코드를 예측하는 최적의 모델을 찾음에 있습니다.
@@ -128,7 +134,7 @@ machine learning project
 <br/>
 <br/>
 
-<img width="400" alt="스크린샷 2021-05-13 오전 11 04 09" src="https://user-images.githubusercontent.com/75352728/124360358-51136d00-dc64-11eb-8292-0251beb68ca0.png">
+
 
 
 <br/>
